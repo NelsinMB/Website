@@ -1,0 +1,1 @@
+A simple personal website to practice some web development and introduce myself. 
